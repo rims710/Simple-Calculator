@@ -1,1 +1,1 @@
-You would require a tkinter library to run this project
+You would require a tkinter library(GUI) to run this project
